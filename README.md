@@ -32,6 +32,21 @@ Discretized Integrated Gradients for Explaining Language Models (EMNLP 2021)
   python main.py -dataset sst2 -nn distilbert -strategy maxcount
   ```
   Similarly, commands can be changed for other settings.
+  
+### Citation
+Please cite the following paper if you use the code in your work:
+
+```bibtex
+@inproceedings{sanyal-ren-2021-discretized,
+    title = "Discretized Integrated Gradients for Explaining Language Models",
+    author = "Sanyal, Soumya  and Ren, Xiang",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    year = "2021",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.805",
+    pages = "10285--10299",
+}
+```
 
 
 Please contact [Soumya](https://soumyasanyal.github.io/) for any clarifications or suggestions.
