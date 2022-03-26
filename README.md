@@ -1,5 +1,5 @@
 <h2 align="left">
-Discretized Integrated Gradients for Explaining Language Models (EMNLP 2021)
+Discretized Integrated Gradients for Explaining Language Models (EMNLP 2021) <a href="https://arxiv.org/abs/2108.13654">[paper]</a>
 </h2>
 
 <h4 align="center">
